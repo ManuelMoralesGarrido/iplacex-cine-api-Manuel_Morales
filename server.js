@@ -1,7 +1,7 @@
 import express from 'express';
 import cors from 'cors';
 import { connectDB } from './src/common/db.js';
-import { peliculaRoutes } from './src/pelicula/routes.js';
+import { peliculaRoutes } from './src/peliculas/routes.js';
 import { ActorRoutes } from './src/actor/routes.js';
 
 const app = express();
