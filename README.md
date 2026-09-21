@@ -1,1 +1,1 @@
-# iplacex-cine-api-Manuel_Morales
+# API REST Express para administración de películas favoritas de empleados de IPLACEX
